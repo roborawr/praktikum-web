@@ -1,0 +1,11 @@
+Jawaban latihan kecil:
+LATIHAN 1
+a. jika method post dibaca menggunakan $_GET maka variable yang diinputkan tidak dapat ditampilkan, begitupun sebaliknya.
+b. variable superglobal $_REQUEST dapat menangkan method GET dan POST.
+
+LATIHAN 3
+Untuk memberikan nilai default pada kumpulan Radio button, ditambahkan checked pada salah satu radio button. contoh:
+<input type="radio" name="sex" value="Pria" checked>Pria<br>
+		<input type="radio" name="sex" value="Wanita">Wanita<br>
+
+akan secara otomatis memilih radio button Pria
